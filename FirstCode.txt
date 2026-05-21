@@ -34,3 +34,5 @@ public class BubbleSort {
         System.out.println();
     }
 }
+
+//Entire Code for the Bubble Sort algorithm in Java. 
